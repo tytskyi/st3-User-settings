@@ -24,6 +24,10 @@
 		"Monokai Extended",
 		"Sass",
 		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
 		"Theme - Soda"
 	]
 }

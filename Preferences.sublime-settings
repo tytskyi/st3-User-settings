@@ -3,7 +3,7 @@
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Ironman Color Scheme/Ironman.tmTheme",
+	"color_scheme": "Packages/User/Ironman (SL).tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Droid Sans Mono",
