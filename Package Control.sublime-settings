@@ -2,15 +2,20 @@
 	"installed_packages":
 	[
 		"Behave Color Scheme",
+		"Better CoffeeScript",
 		"Boron Color Scheme",
 		"Dayle Rees Color Schemes",
 		"Drive Color Scheme",
 		"Focus",
 		"GitHub Flavored Markdown Preview",
 		"Ironman Color Scheme",
+		"Jade",
+		"LESS",
 		"Lucario Color Scheme",
 		"MarkdownEditing",
 		"Monokai Extended",
+		"Sass",
+		"Stylus",
 		"Theme - Soda"
 	]
 }
