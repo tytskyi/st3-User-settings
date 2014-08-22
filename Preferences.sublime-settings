@@ -3,6 +3,8 @@
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Ironman Color Scheme/Ironman.tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Droid Sans Mono",
 	"font_options": "directwrite",
 	"font_size": 11,
@@ -10,7 +12,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"indent_to_bracket": true,
 	"line_padding_bottom": 4,
@@ -27,7 +30,5 @@
 	"theme": "Soda Dark 3.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?",
-	"word_wrap": false,
-	"default_line_ending": "unix",
-	"ensure_newline_at_eof_on_save": true
+	"word_wrap": false
 }
