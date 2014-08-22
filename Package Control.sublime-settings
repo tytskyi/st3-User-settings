@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"Alignment",
 		"Behave Color Scheme",
 		"Better CoffeeScript",
 		"Boron Color Scheme",
