@@ -30,6 +30,7 @@
 		"SublimeLinter-coffee",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
-		"Theme - Soda"
+		"Theme - Soda",
+		"TodoReview"
 	]
 }
