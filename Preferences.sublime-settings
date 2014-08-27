@@ -5,6 +5,7 @@
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/Ironman (SL).tmTheme",
 	"default_line_ending": "unix",
+	"drag_text": false,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Droid Sans Mono",
 	"font_options": "directwrite",
@@ -13,7 +14,6 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Markdown",
 		"Vintage"
 	],
 	"indent_to_bracket": true,
@@ -25,6 +25,9 @@
 		100
 	],
 	"scroll_past_end": true,
+	"scroll_speed": 0.6,
+	"show_encoding": true,
+	"show_line_endings": true,
 	"soda_classic_tabs": true,
 	"soda_folder_icons": true,
 	"tab_completion": false,
