@@ -16,6 +16,7 @@
 		"Focus",
 		"FuzzyFilePath",
 		"GitHub Flavored Markdown Preview",
+		"Highlight Whitespaces",
 		"HTML5",
 		"Ironman Color Scheme",
 		"Jade",
@@ -30,6 +31,7 @@
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
 		"Theme - Soda",
-		"TodoReview"
+		"TodoReview",
+		"Whitespace"
 	]
 }
