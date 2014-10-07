@@ -29,8 +29,9 @@
 	"scroll_speed": 0.6,
 	"show_encoding": true,
 	"show_line_endings": true,
+	"soda_classic_tabs": true,
 	"tab_completion": false,
-	"theme": "Seti.sublime-theme",
+	"theme": "amCoder Gray.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?",
 	"word_wrap": false
