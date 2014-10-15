@@ -34,5 +34,6 @@
 	"theme": "amCoder Gray.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?",
-	"word_wrap": false
+	"word_wrap": false,
+	"binary_file_patterns": ["node_modules/"]
 }
