@@ -13,7 +13,15 @@
 	"drag_text": false,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Droid Sans Mono",
-	"font_options": ["no_bold", "no_italic", "no_antialias", "gray_antialias", "gdi", "directwrite"],
+	"font_options":
+	[
+		"no_bold",
+		"no_italic",
+		"no_antialias",
+		"gray_antialias",
+		"gdi",
+		"directwrite"
+	],
 	"font_size": 11,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
