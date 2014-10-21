@@ -1,6 +1,10 @@
 {
 	"atomic_save": false,
 	"auto_complete": false,
+	"binary_file_patterns":
+	[
+		"node_modules/"
+	],
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
@@ -34,6 +38,5 @@
 	"theme": "amCoder Gray.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?",
-	"word_wrap": false,
-	"binary_file_patterns": ["node_modules/"]
+	"word_wrap": false
 }
