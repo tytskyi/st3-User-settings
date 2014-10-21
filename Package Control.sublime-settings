@@ -28,6 +28,7 @@
 		"Sass",
 		"Seti_UI",
 		"Stylus",
+		"sublime-fixmyjs",
 		"SublimeLinter",
 		"SublimeLinter-coffee",
 		"SublimeLinter-csslint",
@@ -36,5 +37,9 @@
 		"Theme - Soda",
 		"TodoReview",
 		"Whitespace"
+	],
+	"repositories":
+	[
+		"https://github.com/addyosmani/sublime-fixmyjs"
 	]
 }
