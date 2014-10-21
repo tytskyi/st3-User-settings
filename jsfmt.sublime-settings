@@ -13,9 +13,9 @@
         },
         // plugins included
         "plugins": [
-            // "esformatter-quotes",
-            // "esformatter-semicolons",
-            // "esformatter-braces",
+            "esformatter-quotes",
+            "esformatter-semicolons",
+            "esformatter-braces",
             // "esformatter-dot-notation"
         ]
     },
