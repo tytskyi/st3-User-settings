@@ -1,6 +1,5 @@
 {
 	"atomic_save": false,
-	"auto_complete": false,
 	"binary_file_patterns":
 	[
 		"node_modules/"
