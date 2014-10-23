@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+console|alert|debugger|devel
+]]></content>
+	<tabTrigger>devel</tabTrigger>
+	<description>devel search RegEx</description>
+</snippet>
