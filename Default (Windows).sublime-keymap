@@ -1,5 +1,6 @@
 [
 	{ "keys": ["ctrl+v"], "command": "paste_and_indent" },
 	{ "keys": ["ctrl+shift+v"], "command": "paste" },
-	{ "keys": ["ctrl+shift+j"], "command": "expand_selection", "args": {"to": "indentation"} }
+	{ "keys": ["ctrl+shift+j"], "command": "expand_selection", "args": {"to": "indentation"} },
+	{ "keys": ["ctrl+b"], "command": "toggle_side_bar" }
 ]
