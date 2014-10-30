@@ -4,8 +4,8 @@
 	[
 		"node_modules/"
 	],
-	"caret_extra_width": 1,
 	"bold_folder_labels": true,
+	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
 	"default_line_ending": "unix",
