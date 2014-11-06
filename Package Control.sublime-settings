@@ -19,6 +19,7 @@
 		"Find++",
 		"FindKeyConflicts",
 		"Focus",
+		"FuzzyFilePath",
 		"Gist",
 		"Git",
 		"GitGutter",
