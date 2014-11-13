@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$
+]]></content>
+	<tabTrigger>j</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery alias</description>
+</snippet>

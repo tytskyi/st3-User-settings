@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+window.jQuery
+]]></content>
+	<tabTrigger>jq</tabTrigger>
+	<scope>source.js</scope>
+	<description>global jQuery</description>
+</snippet>
