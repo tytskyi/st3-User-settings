@@ -2,7 +2,7 @@
   "completion_active_list": {
     // build-in completions
     "gruntjs-plugins": false,
-    "html": true,
+    "html": false,
     "javascript": true,
     "jquery": false,
     "jquery-sq": true, // Single Quote
@@ -10,12 +10,9 @@
     "phpci": false,
     "twitter-bootstrap": false,
     "twitter-bootstrap3": false,
-    "underscorejs": true,
+    "underscorejs": false,
 
     // Your own completions?
-    "my-angularjs": false,
-    "my-glossary": false,
-    "my-html": false,
-    "my-javascript": false
+    "my-jquery": false
   }
 }
