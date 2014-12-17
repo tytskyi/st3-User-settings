@@ -1,5 +1,5 @@
 {
-	"atomic_save": false,
+	"atomic_save": true,
 	"binary_file_patterns":
 	[
 		"node_modules/"
