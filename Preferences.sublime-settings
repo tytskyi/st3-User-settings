@@ -47,10 +47,15 @@
 	"scroll_speed": 0.6,
 	"show_encoding": true,
 	"show_line_endings": true,
-	"show_tab_close_buttons": true,
 	"tab_completion": false,
 	"theme": "Seti.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?",
-	"word_wrap": false
+	"word_wrap": false,
+	"auto_close_tags": false,
+	"auto_find_in_selection": true,
+	"auto_complete_triggers": [{
+		"characters": "qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP",
+		"selector": "text, source, meta, string, punctuation, constant"
+	}]
 }
