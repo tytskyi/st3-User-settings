@@ -1,4 +1,11 @@
 {
+	"Seti_ClosedFolder_dots": true,
+	"Seti_ClosedFolder_remove": false,
+	"Seti_SB_bright": true,
+	"Seti_SB_med": false,
+	"Seti_sb_big_padding": false,
+	"Seti_sb_small_padding": false,
+	"Seti_tabs_small": true,
 	"atomic_save": true,
 	"binary_file_patterns":
 	[
@@ -7,7 +14,7 @@
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Seti (SL).tmTheme",
 	"default_line_ending": "unix",
 	"drag_text": false,
 	"ensure_newline_at_eof_on_save": true,
@@ -40,8 +47,9 @@
 	"scroll_speed": 0.6,
 	"show_encoding": true,
 	"show_line_endings": true,
+	"show_tab_close_buttons": true,
 	"tab_completion": false,
-	"theme": "Soda Dark 3.sublime-theme",
+	"theme": "Seti.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?",
 	"word_wrap": false
