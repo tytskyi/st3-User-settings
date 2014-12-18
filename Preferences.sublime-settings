@@ -7,6 +7,15 @@
 	"Seti_sb_small_padding": false,
 	"Seti_tabs_small": true,
 	"atomic_save": true,
+	"auto_close_tags": false,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP",
+			"selector": "text, source, meta, string, punctuation, constant"
+		}
+	],
+	"auto_find_in_selection": true,
 	"binary_file_patterns":
 	[
 		"node_modules/"
@@ -33,6 +42,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"JavaScript",
 		"Vintage"
 	],
 	"indent_to_bracket": true,
@@ -51,11 +61,5 @@
 	"theme": "Seti.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?",
-	"word_wrap": false,
-	"auto_close_tags": false,
-	"auto_find_in_selection": true,
-	"auto_complete_triggers": [{
-		"characters": "qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP",
-		"selector": "text, source, meta, string, punctuation, constant"
-	}]
+	"word_wrap": false
 }
