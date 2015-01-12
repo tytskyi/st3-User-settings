@@ -28,12 +28,13 @@
             },
             "jshint": {
                 "@disable": false,
-                "args": [],
+                "args": ["--config", "D:\\Dev\\dotfiles\\.jshintrc"],
                 "excludes": []
             }
         },
         "mark_style": "outline",
         "no_column_highlights_line": false,
+        "passive_warnings": false,
         "paths": {
             "linux": [],
             "osx": [],
