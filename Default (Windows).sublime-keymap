@@ -3,5 +3,15 @@
 	{ "keys": ["ctrl+shift+v"], "command": "paste" },
 	{ "keys": ["ctrl+shift+j"], "command": "expand_selection", "args": {"to": "indentation"} },
 	{ "keys": ["ctrl+b"], "command": "toggle_side_bar" },
-	{ "keys": ["ctrl+shift+r"], "command": "reindent" , "args": {"single_line": false} }
+	{ "keys": ["ctrl+shift+r"], "command": "reindent" , "args": {"single_line": false} },
+	{
+	    "keys": ["alt+;", "<character>"],
+	    "command": "easy_motion",
+	    "args": {"select_text": false}
+	},
+	{
+	    "keys": ["alt+;", "enter"],
+	    "command": "easy_motion",
+	    "args": {"select_text": false, "character": "enter"}
+	}
 ]
