@@ -27,7 +27,8 @@
 	"default_line_ending": "unix",
 	"drag_text": false,
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "Droid Sans Mono",
+	"font_face": "InputSerif",
+	"draw_indent_guides": false,
 	"font_options":
 	[
 		"no_bold",
@@ -49,8 +50,8 @@
 	"line_padding_top": 4,
 	"rulers":
 	[
-		80,
-		100
+		50,
+		70
 	],
 	"scroll_past_end": true,
 	"scroll_speed": 0.6,
