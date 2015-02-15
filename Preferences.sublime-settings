@@ -26,9 +26,9 @@
 	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
 	"default_line_ending": "unix",
 	"drag_text": false,
+	"draw_indent_guides": false,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "InputSerif",
-	"draw_indent_guides": false,
 	"font_options":
 	[
 		"no_bold",
