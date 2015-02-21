@@ -196,7 +196,7 @@
         "fg": [170, 170, 170],
         "shadow_color": [25, 25, 25],
         "shadow_offset": [0, -1],
-        "font.face": "InputMono",
+        "font.face": "Droid Sans Mono",
         "font.size": 12,
     },
     {
@@ -490,7 +490,7 @@
         "shadow_color": [0, 0, 0],
         "shadow_offset": [0, -1],
         "font.size": 16,
-        "font.face": "InputMono"
+        "font.face": "Droid Sans Mono"
     },
     // Sidebar entry
     {
@@ -499,7 +499,7 @@
         "shadow_color": [0, 0, 0],
         "shadow_offset": [0, -1],
         "font.size": 16,
-        "font.face": "InputMono"
+        "font.face": "Droid Sans Mono"
     },
     // Sidebar folder entry
     {

@@ -23,12 +23,12 @@
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/cobalt2 (SL).tmTheme",
+	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
 	"default_line_ending": "unix",
 	"drag_text": false,
 	"draw_indent_guides": false,
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "InputMono",
+	"font_face": "Droid Sans Mono",
 	"font_options":
 	[
 		"no_bold",
@@ -58,7 +58,7 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"tab_completion": false,
-	"theme": "Cobalt2.sublime-theme",
+	"theme": "Seti.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?",
 	"word_wrap": false
