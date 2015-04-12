@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
-		<key>name</key><string>Seti_Mod</string>
+		<key>name</key><string>Seti_Original</string>
 		<key>settings</key>
 		<array>
 			
@@ -49,7 +49,7 @@
 				<key>scope</key><string>comment</string>
 				<key>settings</key>
 				<dict>
-					<key>foreground</key><string>#4a5f68</string>
+					<key>foreground</key><string>#41535b</string>
 				</dict>
 			</dict>
 
@@ -67,6 +67,14 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key><string>#9fca56</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>scope</key><string>meta.property-list.css meta.property-value.css string.quoted.double.css</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key><string>#55b5db</string>
 				</dict>
 			</dict>
 
@@ -131,7 +139,6 @@
 					<key>foreground</key><string>#cd3f45</string>
 				</dict>
 			</dict>
-
 
 			
 			<dict>
@@ -250,14 +257,6 @@
 				</dict>
 			</dict>
 
-			 <dict>
-				<key>scope</key><string>source.js.embedded.html string.quoted.double.html</string>
-				<key>settings</key>
-				<dict>
-					<key>foreground</key><string>#e6cd69</string>
-				</dict>
-			</dict>
-
 			<dict>
 				<key>name</key><string>Support.constant</string>
 				<key>scope</key><string>support.constant</string>
@@ -325,6 +324,16 @@
 				<key>settings</key>
 				<dict>
 					<key>fontStyle</key><string>italic</string>
+					<key>foreground</key><string>#9fca56</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>name</key><string>Language Variable</string>
+				<key>scope</key><string>source.js.embedded.html variable.language.js</string>
+				<key>settings</key>
+				<dict>
+					<key>fontStyle</key><string />
 					<key>foreground</key><string>#9fca56</string>
 				</dict>
 			</dict>
@@ -439,7 +448,7 @@
 				<key>scope</key><string>invalid</string>
 				<key>settings</key>
 				<dict>
-					<key>foreground</key><string>#F8F8F8</string>
+					<key>foreground</key><string>#cd3f45</string>
 				</dict>
 			</dict>
 
@@ -498,28 +507,18 @@
 
 			
 			<dict>
-				<key>scope</key><string>meta.tag.other.html meta.attribute-with-value.id.html string.quoted.double.html meta.toc-list.id.html, meta.tag.block.any.html string.quoted.double.html, meta.tag.inline.any.html string.quoted.double.html, meta.tag.other.html string.quoted.double.html </string>
+				<key>scope</key><string>meta.tag.block.any.html, meta.tag.inline.any.html, meta.tag.other.html, meta.tag.any.html</string>
 				<key>settings</key>
 				<dict>
 					<key>foreground</key><string>#55B5DB</string>
 				</dict>
 			</dict>
 
-			
 			<dict>
-				<key>scope</key><string>meta.tag.other.html string.quoted.double.html punctuation.definition.string.begin.html, meta.tag.other.html string.quoted.double.html punctuation.definition.string.end.html, meta.tag.block.any.html string.quoted.double.html punctuation.definition.string.begin.html, meta.tag.block.any.html string.quoted.double.html punctuation.definition.string.end.html, meta.tag.inline.any.html string.quoted.double.html punctuation.definition.string.begin.html, meta.tag.inline.any.html string.quoted.double.html punctuation.definition.string.end.html, meta.tag.any.html string.quoted.double.html punctuation.definition.string.begin.html, meta.tag.any.html string.quoted.double.html punctuation.definition.string.end.html</string>
+				<key>scope</key><string>meta.tag.other.html meta.attribute-with-value.id.html punctuation.separator.key-value.html, meta.tag.block.any.html meta.attribute-with-value.id.html punctuation.separator.key-value.html</string>
 				<key>settings</key>
 				<dict>
-					<key>foreground</key><string>#55B5DB</string>
-				</dict>
-			</dict>
-
-			
-			<dict>
-				<key>scope</key><string>meta.tag.other.html meta.attribute-with-value.id.html punctuation.separator.key-value.html, meta.tag.block.any.html, meta.tag.inline.any.html, meta.tag.other.html, meta.tag.any.html</string>
-				<key>settings</key>
-				<dict>
-					<key>foreground</key><string>#a074c4</string>
+					<key>foreground</key><string>#858d8a</string>
 				</dict>
 			</dict>
 
@@ -579,15 +578,6 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key><string>#d4d7d6</string>
-				</dict>
-			</dict>
-
-			 <dict>
-				<key>name</key><string>slim String</string>
-				<key>scope</key><string>string.quoted.double.html meta.toc-list.id.html </string>
-				<key>settings</key>
-				<dict>
-					<key>foreground</key><string>#55B5DB</string>
 				</dict>
 			</dict>
 
@@ -709,6 +699,15 @@
 			</dict>
 
 			<dict>
+				<key>name</key><string>css.string</string>
+				<key>scope</key><string>meta.selector.css meta.attribute-selector.css entity.other.attribute-name.attribute.css</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key><string>#55b5db</string>
+				</dict>
+			</dict>
+
+			<dict>
 				<key>name</key><string>CSS: attribute-match</string>
 				<key>scope</key><string>source.css meta.attribute-selector keyword.operator.comparison</string>
 				<key>settings</key>
@@ -721,8 +720,8 @@
 				<key>scope</key><string>meta.property-value.css keyword.operator.less</string>
 				<key>settings</key>
 				<dict>
-					<key>fontStyle</key><string>italic</string>
-					<key>foreground</key><string>#9fca56</string>
+					<key>fontStyle</key><string />
+					<key>foreground</key><string>#cd3f45</string>
 				</dict>
 			</dict>
 
@@ -750,6 +749,14 @@
 				<key>scope</key><string>entity.other.attribute-name.pseudo-class, entity.other.attribute-name.tag.pseudo-class</string>
 				<key>settings</key>
 				<dict>
+					<key>foreground</key><string>#d4d7d6</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>scope</key><string>meta.selector.css meta.selector.css entity.other.attribute-name.pseudo-class.css</string>
+				<key>settings</key>
+				<dict>
 					<key>foreground</key><string>#55b5db</string>
 				</dict>
 			</dict>
@@ -759,7 +766,7 @@
 				<key>scope</key><string>meta.selector.css</string>
 				<key>settings</key>
 				<dict>
-					<key>foreground</key><string>#d4d7d6</string>
+					<key>foreground</key><string>#858d8a</string>
 				</dict>
 			</dict>
 
@@ -784,7 +791,7 @@
 				<key>scope</key><string>parameter.less constant.numeric.css keyword.other.unit.css</string>
 				<key>settings</key>
 				<dict>
-					<key>foreground</key><string>#9fca56</string>
+					<key>foreground</key><string>#d4d7d6</string>
 				</dict>
 			</dict>
 
@@ -825,6 +832,14 @@
 			</dict>
 
 			<dict>
+				<key>scope</key><string>meta.property-value.css parameter.less</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key><string>#a074c4</string>
+				</dict>
+			</dict>
+
+			<dict>
 				<key>name</key><string>css tag-name</string>
 				<key>scope</key><string>meta.selector.css entity.name.tag.css</string>
 				<key>settings</key>
@@ -834,18 +849,26 @@
 			</dict>
 
 			<dict>
+				<key>scope</key><string>meta.selector.css meta.attribute-selector.css punctuation.separator.operator.css, meta.selector.css meta.attribute-selector.css punctuation.definition.entity.css, meta.selector.css meta.attribute-selector.css</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key><string>#858d8a</string>
+				</dict>
+			</dict>
+
+			<dict>
 				<key>name</key><string>CSS: tag wildcard</string>
 				<key>scope</key><string>entity.name.tag.wildcard, entity.other.attribute-name.universal</string>
 				<key>settings</key>
 				<dict>
 					<key>fontStyle</key><string>bold</string>
-					<key>foreground</key><string>#FF7900</string>
+					<key>foreground</key><string>#55b5db</string>
 				</dict>
 			</dict>
 
 			<dict>
 				<key>name</key><string>css#id</string>
-				<key>scope</key><string>meta.selector.css entity.other.attribute-name.id, entity.other.attribute-name.id.css punctuation</string>
+				<key>scope</key><string>meta.selector.css entity.other.attribute-name.id, entity.other.attribute-name.id.css punctuation, entity.other.attribute-name.id.css</string>
 				<key>settings</key>
 				<dict>
 					<key>foreground</key><string>#cd3f45</string>
@@ -922,7 +945,7 @@
 				<key>scope</key><string>entity.other.less.mixin</string>
 				<key>settings</key>
 				<dict>
-					<key>foreground</key><string>#ffffff</string>
+					<key>foreground</key><string>##55b5db</string>
 				</dict>
 			</dict>
 
@@ -1080,7 +1103,7 @@
 				</dict>
 			</dict>
 
-			 <dict>
+			<dict>
 				<key>scope</key><string>source.js.embedded.html keyword.operator.js</string>
 				<key>settings</key>
 				<dict>
@@ -1235,6 +1258,7 @@
 					<key>foreground</key><string>#A074C4</string>
 				</dict>
 			</dict>
+
 			
 			<dict>
 				<key>name</key><string>GitGutter deleted</string>
@@ -1330,7 +1354,7 @@
 			</dict>
 
 			
-			<dict>
+			 <dict>
 				<key>name</key><string>punctuation.terminator</string>
 				<key>scope</key><string>punctuation.terminator</string>
 				<key>settings</key>
