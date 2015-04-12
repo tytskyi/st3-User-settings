@@ -14,6 +14,7 @@
 		"Boron Color Scheme",
 		"BracketHighlighter",
 		"BufferScroll",
+		"ColorSchemeSelector",
 		"CSS3",
 		"Dayle Rees Color Schemes",
 		"Devastate",
@@ -49,7 +50,6 @@
 		"Sass",
 		"Seti_UI",
 		"Stylus",
-		"sublime-fixmyjs",
 		"SublimeLinter",
 		"SublimeLinter-coffee",
 		"SublimeLinter-csslint",
@@ -59,7 +59,8 @@
 		"Theme - Soda",
 		"Themr",
 		"TodoReview",
-		"Whitespace"
+		"Whitespace",
+		"Wild Cherry"
 	],
 	"repositories":
 	[
