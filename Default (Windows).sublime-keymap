@@ -5,13 +5,14 @@
 	{ "keys": ["ctrl+b"], "command": "toggle_side_bar" },
 	{ "keys": ["ctrl+shift+r"], "command": "reindent" , "args": {"single_line": false} },
 	{
-	    "keys": ["alt+;", "<character>"],
-	    "command": "easy_motion",
-	    "args": {"select_text": false}
+		"keys": ["alt+;", "<character>"],
+		"command": "easy_motion",
+		"args": {"select_text": false}
 	},
 	{
-	    "keys": ["alt+;", "enter"],
-	    "command": "easy_motion",
-	    "args": {"select_text": false, "character": "enter"}
-	}
+		"keys": ["alt+;", "enter"],
+		"command": "easy_motion",
+		"args": {"select_text": false, "character": "enter"}
+	},
+	{ "keys": ["f10"], "command": "reindent"}
 ]
