@@ -6,6 +6,7 @@
 	"Seti_sb_big_padding": false,
 	"Seti_sb_small_padding": false,
 	"Seti_tabs_small": true,
+	"always_show_minimap_viewport": true,
 	"atomic_save": true,
 	"auto_close_tags": false,
 	"auto_complete_triggers":
@@ -45,6 +46,11 @@
 	[
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
 	"indent_to_bracket": true,
 	"line_padding_bottom": 4,
 	"line_padding_top": 4,
@@ -61,7 +67,5 @@
 	"theme": "Material-Theme.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?",
-	"word_wrap": false,
-	"always_show_minimap_viewport": true,
-	"indent_guide_options": ["draw_normal", "draw_active"]
+	"word_wrap": false
 }
